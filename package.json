@@ -1,11 +1,11 @@
 {
-  "name": "fp-toolz",
+  "name": "fp-tools",
   "version": "1.0.0",
   "description": "A lightweight library comprised of simple and practical functional programming utilities.",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/jkhaui/fp-toolz",
+  "repository": "https://github.com/jkhaui/fp-tools",
   "license": "MIT",
   "keywords": [],
   "scripts": {
